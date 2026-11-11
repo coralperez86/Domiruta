@@ -10,5 +10,5 @@ Aquí se deben incluir:
    archivo generado que muestre los paquetes `estructuras`, `modelo`, `servicios`
    y `util`, con sus principales clases y relaciones de dependencia. También está pendiente por hacer - OJOOOOOOOOOOOOO
 
-Nota: ambos elementos son entregables y se revisan en la
+Nota para Juan y Coral: ambos elementos son entregables y se revisan en la
 sustentación. Uno es de la fase 3 y el otro es de la fase 4. 
