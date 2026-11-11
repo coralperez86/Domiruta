@@ -1,0 +1,20 @@
+"""Mapa de Manizales: barrios y distancias entre ellos."""
+
+Centro;San José;1.2
+Centro;Chipre;1.5
+Centro;Fátima;2.0
+Centro;Estrella;2.2
+San José;Villa Pilar;1.8
+Chipre;Villa Pilar;2.5
+Fátima;Estrella;1.0
+Fátima;Palermo;2.4
+Estrella;El Cable;1.1
+El Cable;Palermo;1.3
+El Cable;Milán;1.6
+Palermo;Milán;1.4
+Milán;La Sultana;2.0
+Palermo;La Sultana;2.6
+La Sultana;La Enea;2.3
+Milán;La Enea;3.5
+Villa Pilar;Bosques del Norte;3.0
+San José;Bosques del Norte;2.8
