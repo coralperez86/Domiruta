@@ -9,7 +9,8 @@ Sistema de gestión de domicilios en Python con estructuras de datos implementad
 - **Lenguaje:** Python 3.10+
 
 ## Integrantes
-(Completar con los nombres de los integrantes del grupo)
+- Coral Dayane Pérez Manrique
+- Juan David Castro Higuera
 
 ## Estructura del proyecto
 ```
